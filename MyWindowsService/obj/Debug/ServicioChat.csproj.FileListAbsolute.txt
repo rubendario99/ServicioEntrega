@@ -1,0 +1,20 @@
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe.config
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.pdb
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ChatServer.resources
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csproj.GenerateResource.cache
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csproj.CoreCompileInputs.cache
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.exe
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.pdb
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csprojAssemblyReference.cache
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe.config
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.pdb
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csprojAssemblyReference.cache
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ChatServer.resources
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csproj.GenerateResource.cache
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.csproj.CoreCompileInputs.cache
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.exe
+C:\Users\ruchi\Desktop\EjerServicioWindows (1)\MyWindowsService\MyWindowsService\obj\Debug\ServicioChat.pdb

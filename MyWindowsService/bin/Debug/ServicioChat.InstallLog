@@ -1,0 +1,167 @@
+﻿Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+El servicio ServerChat se ha instalado correctamente.
+Creando el origen de EventLog ServerChat en el registro Application...
+Confirmando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Desinstalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Quitando el origen de EventLog ServerChat.
+Se está quitando el servicio ServerChat del sistema...
+El servicio ServerChat se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+El servicio ServerChat se ha instalado correctamente.
+Creando el origen de EventLog ServerChat en el registro Application...
+Confirmando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Desinstalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Quitando el origen de EventLog ServerChat.
+Se está quitando el servicio ServerChat del sistema...
+El servicio ServerChat se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+El servicio ServerChat se ha instalado correctamente.
+Creando el origen de EventLog ServerChat en el registro Application...
+Confirmando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Desinstalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Quitando el origen de EventLog ServerChat.
+Se está quitando el servicio ServerChat del sistema...
+El servicio ServerChat se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+El servicio ServerChat se ha instalado correctamente.
+Creando el origen de EventLog ServerChat en el registro Application...
+Confirmando ensamblado 'C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando ensamblado 'C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.
+Instalando ensamblado 'C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Instalando el servicio ServerChat...
+Creando el origen de EventLog ServerChat en el registro Application...
+Deshaciendo ensamblado 'C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.InstallLog
+   assemblypath = C:\Users\ruchi\Desktop\EjerServicios\MyWindowsService\MyWindowsService\bin\Debug\ServicioChat.exe
+Restaurando el registro de eventos al estado anterior para el origen ServerChat.

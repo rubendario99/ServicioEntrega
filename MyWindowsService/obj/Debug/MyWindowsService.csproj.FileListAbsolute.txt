@@ -1,0 +1,10 @@
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe.config
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.exe
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\bin\Debug\MyWindowsService.pdb
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csprojAssemblyReference.cache
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ProjectInstaller.resources
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.GenerateResource.cache
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.csproj.CoreCompileInputs.cache
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.exe
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.pdb
+C:\Users\arfon\source\repos\MyWindowsService\MyWindowsService\obj\Debug\MyWindowsService.ChatServer.resources
